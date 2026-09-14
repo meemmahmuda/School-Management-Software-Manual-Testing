@@ -14,8 +14,6 @@ Manual QA / UAT (User Acceptance Testing) documentation for **RK-EMS (Education 
 |---|---|
 | **Error and Requirment** | Main issue log — 83 reported problems/questions with module, feature, portal type, dev notes, and resolution status |
 | **Requrement** | New feature requirements and change requests raised during testing |
-| **Training Progress** | Module-wise training/walkthrough status and visibility notes |
-| **Page issue** | Page-level issues with resolution status and notes |
 
 ## 🧩 System Modules Covered
 
